@@ -5,15 +5,15 @@
 		"title" : "Titre 1",
 		"content" : "content 1"
 	},
-	{
-	"articles":
+	
+	
 		{
 		"id" : 2,
 		"title" : "Titre 2",
 		"content" : "content 2"
 	},
-	{
-	"articles":
+	
+	
 		{
 		"id" : 3,
 		"title" : "Titre 3",
