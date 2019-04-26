@@ -6,14 +6,14 @@
 		"content" : "content 1"
 	},
 	{
-	"articles":[
+	"articles":
 		{
 		"id" : 2,
 		"title" : "Titre 2",
 		"content" : "content 2"
 	},
 	{
-	"articles":[
+	"articles":
 		{
 		"id" : 3,
 		"title" : "Titre 3",
